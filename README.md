@@ -1,0 +1,2 @@
+# nihongo-tag-tsserver
+日本語annotation埋め込みまくってtsserverに送りつけるとtagがちゃんと帰ってくるのか実験
