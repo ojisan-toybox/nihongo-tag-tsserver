@@ -1,0 +1,19 @@
+{
+  "name": "nihongo-tag-tsserver",
+  "version": "1.0.0",
+  "description": "日本語 annotation 埋め込みまくって tsserver に送りつけると tag がちゃんと帰ってくるのか実験",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/nihongo-tag-tsserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/nihongo-tag-tsserver/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/nihongo-tag-tsserver#readme"
+}
